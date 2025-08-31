@@ -14,8 +14,9 @@ We're a passionate group working hard to breathe new life into your device with 
 > Samsung Galaxy J7 Neo/Core (j7velte) <br>
 > Samsung Galaxy J5 Pro/2017 (j5y17lte) <br>
 > Samsung Galaxy J6 2018 (j6lte) <br>
-> Samsung Galaxy A3 2017 (a3y17lte) 
-> Samsung Galaxy A6 2018 (a6lte)
+> Samsung Galaxy A3 2017 (a3y17lte) <br>
+> Samsung Galaxy A6 2018 (a6lte) <br>
+> Samsung Galaxy J7 Prime 2 (on7xreflte) [PARITAL SUPPORT.]
 
 ### Releases
 > [!WARNING]
